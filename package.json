@@ -1,0 +1,33 @@
+{
+  "name": "employee-summary",
+  "version": "1.0.0",
+  "description": "Template Engine - Employee Summary",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EunsooJung/Employee-Summary.git"
+  },
+  "keywords": [
+    "Template",
+    "Engine"
+  ],
+  "author": "Michael Eunsoo Jung",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^7.0.0",
+    "jest": "^24.9.0",
+    "path": "^0.12.7"
+  },
+  "bugs": {
+    "url": "https://github.com/EunsooJung/Employee-Summary/issues"
+  },
+  "homepage": "https://github.com/EunsooJung/Employee-Summary#readme"
+}
