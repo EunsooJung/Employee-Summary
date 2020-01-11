@@ -35,18 +35,20 @@ node index.js
 
 After downloading, simply edit the HTML, CSS and Javascript files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `generateHTML.js` file in your web browser.
 
-### Guidelines:
+## Guidelines:
 
 - Proceeds as follows:
 
 1. Run tests
-2. Create or update classes to pass a single test case
-3. Repeat
+2. Run application
+3. Input employee's data
+4. Repeat
 
-- The project structure is:
-  [![Project Structure](https://github.com/EunsooJung/Employee-Summary/blob/master/assets/images/Proejct-Structure.png)](https://github.com/EunsooJung/Employee-Summary/blob/master/assets/images/Proejct-Structure.png)
+## The project structure:
 
-### HTML
+[![Project Structure](https://github.com/EunsooJung/Employee-Summary/blob/master/assets/images/Proejct-Structure.png)](https://github.com/EunsooJung/Employee-Summary/blob/master/assets/images/Proejct-Structure.png)
+
+## HTML
 
 - Created Multiple HTML templates to render for each type of user.
   - main.html
@@ -54,10 +56,10 @@ After downloading, simply edit the HTML, CSS and Javascript files included with 
   - intern.html
   - manager.html
 
-### Classes
+## Classes
 
-- The project must have the these classes: Employee, Manager, Engineer, Intern.
-- These classes passed all in the tests directory.
+- The project has the these classes: Employee, Manager, Engineer, Intern.
+- These classes passed all tests in the tests directory.
 - The first class is an Employee parent class with the followed properties and methods:
   - name
   - id
@@ -68,11 +70,11 @@ After downloading, simply edit the HTML, CSS and Javascript files included with 
   - getRole() // Returns 'Employee'
 - The other three classes will extend Employee.
 
-### User input
+## User input
 
 The project applied prompt the user to build an engineering team. An engineering team consists of a manager, and any number of engineers and interns.
 
-### Roster output
+## Roster output
 
 The project generated a index.html page in the output directory, that displays a nicely formatted team roster. Each team member should display the following in no particular order:
 
@@ -82,7 +84,7 @@ The project generated a index.html page in the output directory, that displays a
 
 Role-specific property (School, link to GitHub profile, or office number)
 
-### Code Snippet
+## Code Snippet
 
 ```javascript
 
