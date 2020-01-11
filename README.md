@@ -27,7 +27,7 @@ node index.js
 
 ## Preview
 
-[![Developer Profile Generator](https://github.com/EunsooJung/Developer-Profile-Generator/blob/master/assets/09-Dev-Profile-Gen-Preview.gif)](https://github.com/EunsooJung/Developer-Profile-Generator/blob/master/assets/09-Dev-Profile-Gen-Preview.gif)
+[![Template Engine - Employee Summary](https://github.com/EunsooJung/Employee-Summary/blob/master/assets/images/Emp-Summ.gif)](https://github.com/EunsooJung/Employee-Summary/blob/master/assets/images/Emp-Summ.gif)
 
 ## Usage
 
@@ -44,7 +44,7 @@ After downloading, simply edit the HTML, CSS and Javascript files included with 
 3. Repeat
 
 - The project structure is:
-  (https://github.com/EunsooJung/Developer-Profile-Generator/blob/master/assets/09-Dev-Profile-Gen-Preview.gif)
+  [![Project Structure](https://github.com/EunsooJung/Employee-Summary/blob/master/assets/images/Proejct-Structure.png)](https://github.com/EunsooJung/Employee-Summary/blob/master/assets/images/Proejct-Structure.png)
 
 ### HTML
 
@@ -137,7 +137,7 @@ async function render(employees) {
 
 - **Michael(Eunsoo)Jung**
 
-* [Developer Profile Generator: Node.js and ES6](https://eunsoojung.github.io/Developer-Profile-Generator/)
+* [Template Engine - Employee Summary: Node.js and ES6](https://eunsoojung.github.io/Employee-Summary/)
 * [My Portfolio](https://eunsoojung.github.io/Unit-02-Responsive-Portfolio/portfolio.html)
 * [Link to Github](https://github.com/)
 * [Link to LinkedIn](www.linkedin.com/in/eun-soo-jung/)
